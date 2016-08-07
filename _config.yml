@@ -1,0 +1,14 @@
+layout_spectrum: 0.5171858
+color:
+  saturation: 0.8346034
+  lightness: 0.4677276
+  brandStrength: 0.3978604
+  brandColors:
+    - '#FFFFFF'
+    - '#C4C2C3'
+    - '#737373'
+    - '#E3E3E3'
+    - '#939393'
+  rhythmicContrast: 0.7630278
+typography_spectrum: 0.1498389
+name: MotniBinKhalaf
