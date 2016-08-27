@@ -1,17 +1,5 @@
 layout_spectrum: 0.5171858
 name: Motni Bin Khalaf
-color:
-  brandStrength: 0.3978604
-  saturation: 0.8346034
-  brandColors:
-    - '#FFFFFF'
-    - '#C4C2C3'
-    - '#737373'
-    - '#E3E3E3'
-    - '#939393'
-  lightness: 0.4677276
-  rhythmicContrast: 0.7630278
-typography_spectrum: 0.1498389
 collections:
   - index:
       navigable: true
@@ -24,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.1498389
+color:
+  brandStrength: 0.3978604
+  lightness: 0.4677276
+  saturation: 0.8346034
+  rhythmicContrast: 0.7630278
+  brandColors:
+    - '#FFFFFF'
+    - '#E8E8E8'
+    - '#D7D7D7'
+    - '#F3F3F3'
+    - '#B9B9B9'
