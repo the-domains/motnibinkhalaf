@@ -1,9 +1,7 @@
-layout_spectrum: 0.5171858
-name: Motni Bin Khalaf
-typography_spectrum: 0.1498389
 color:
-  brandStrength: 0.4106239
   saturation: 0.8346034
+  brandStrength: 0.4106239
+  rhythmicContrast: 0.7630278
   brandColors:
     - '#FFFFFF'
     - '#826635'
@@ -11,16 +9,18 @@ color:
     - '#C0A16D'
     - '#878586'
   lightness: 0.4677276
-  rhythmicContrast: 0.7630278
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5171858
+typography_spectrum: 0.1498389
+name: Motni Bin Khalaf
