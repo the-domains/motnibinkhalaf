@@ -1,3 +1,4 @@
+typography_spectrum: 0.1498389
 color:
   saturation: 0.8346034
   brandStrength: 0.3313641
@@ -9,6 +10,8 @@ color:
     - '#595758'
     - '#D7C7B1'
   lightness: 0.7341568
+layout_spectrum: 0.5171858
+name: Motni Bin Khalaf
 collections:
   - index:
       path: /
@@ -21,6 +24,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.5171858
-typography_spectrum: 0.1498389
-name: Motni Bin Khalaf
