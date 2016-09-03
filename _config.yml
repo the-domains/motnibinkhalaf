@@ -1,4 +1,3 @@
-layout_spectrum: 0.03213525307364762
 typography_spectrum: 0.5820777639746666
 color:
   saturation: 0.5390550929587334
@@ -11,6 +10,8 @@ color:
     - '#D1C094'
     - '#F1E3C7'
   rhythmicContrast: 0.036356592550873756
+layout_spectrum: 0.03213525307364762
+name: Motni Bin Khalaf
 collections:
   - index:
       path: /
@@ -23,4 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-name: Motni Bin Khalaf
+title: مطني
