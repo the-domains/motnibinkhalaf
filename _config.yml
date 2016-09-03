@@ -1,16 +1,16 @@
-typography_spectrum: 0.5820777639746666
+layout_spectrum: 0.4628492188639939
+typography_spectrum: 0.12455065152607858
 color:
-  saturation: 0.5390550929587334
-  brandStrength: 0.8576215314678848
-  lightness: 0.05305167124606669
+  saturation: 0.7408838402479887
+  brandStrength: 0.6238633177708834
+  lightness: 0.15056106424890459
   brandColors:
-    - '#FFFFFF'
-    - '#848283'
-    - '#A4A2A3'
-    - '#D1C094'
-    - '#F1E3C7'
-  rhythmicContrast: 0.036356592550873756
-layout_spectrum: 0.03213525307364762
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  rhythmicContrast: 0.02207562350668013
 name: Motni
 collections:
   - index:
