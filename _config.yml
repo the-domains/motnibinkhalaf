@@ -11,6 +11,10 @@ color:
     - '#ADD5F7'
   rhythmicContrast: 0.02207562350668013
 layout_spectrum: 0.4628492188639939
+author:
+  name: Motni
+  email: m@6w.cc
+  url: Motni.Net
 name: Motni
 navigation:
   - name: من نحن
